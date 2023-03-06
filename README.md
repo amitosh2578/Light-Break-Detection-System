@@ -52,7 +52,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 ### Components/Items Required:
 
-<img src="IOT Project/Project-Images/Components.png" >
+<img src="https://user-images.githubusercontent.com/84440770/223120144-66f72da7-7e77-4201-a88f-4e18ae4416e7.png">
 
 
 
@@ -61,19 +61,19 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 
 
-<img src="C:/Users/AMITOSH MOHAPATRA/Downloads/Light-Break-Detection-System-main/IOT Project/Project-Images/LED_Implementation.png">
-<img src="IOT Project/Project-Images/Buzzer_Implementation.png">
-<img src="IOT Project/Project-Images/OLED_Implementation.png">
-<img src="IOT Project/Project-Images/Final_Image.png">
+<img src="https://user-images.githubusercontent.com/84440770/223119824-c01212a0-c55d-4afb-bd62-892d1505fd7b.png">
+<img src="https://user-images.githubusercontent.com/84440770/223119995-8987459c-d8e8-4949-91d8-12b31f46305c.png">
+<img src="https://user-images.githubusercontent.com/84440770/223120039-2d698dde-b412-460d-9ee1-f58e20ea87d7.png">
+<img src="https://user-images.githubusercontent.com/84440770/223120088-7cb9b632-536a-47db-9977-4d7180373913.png">
 
 ---
 
 ## :man: Project Created & Maintained By
 
-<img src = "IOT Project/Project-Images/profile.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
+<img src = "https://user-images.githubusercontent.com/84440770/223108048-7ef67493-e040-463e-b3e4-ac2c46ec649e.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
 <p>
-<a href = "https://github.com/Kumar2390"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/">
+<a href = "https://github.com/amitosh2578"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/amitosh-mohapatra-477a97213/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
