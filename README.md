@@ -1,1 +1,0 @@
-# Light-Break-Detection-System
