@@ -70,7 +70,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 ## :man: Project Created & Maintained By
 
-<img src = "IOT Project/Project-Images/profile.jpg"  height="130" alt=""> <br>Ashwini Kumar Behera
+<img src = "IOT Project/Project-Images/profile.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
 <p>
 <a href = "https://github.com/Kumar2390"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/">
