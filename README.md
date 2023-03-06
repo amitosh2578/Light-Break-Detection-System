@@ -61,7 +61,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 
 
-<img src="IOT Project/Project-Images/LED_Implementation.png">
+<img src="C:\Users\AMITOSH MOHAPATRA\Downloads\Light-Break-Detection-System-main\IOT Project\Project-Images\LED_Implementation.png">
 <img src="IOT Project/Project-Images/Buzzer_Implementation.png">
 <img src="IOT Project/Project-Images/OLED_Implementation.png">
 <img src="IOT Project/Project-Images/Final_Image.png">
